@@ -1,6 +1,6 @@
 # STALKER: Shadow of Chernobyl UI Tweaks
 Fixes for random annoyances and jank in the UI code.  
-* Inverted the map scrollwheel zoom direction (Scrollwheel Up zooms out, Down zooms in, as it should be)
+* Inverted the map scrollwheel zoom direction (Scrollwheel Down zooms out, Up zooms in, as it should be)
 * Made map zooming instant  
 
 Tested only in GOG version (Russian language).
