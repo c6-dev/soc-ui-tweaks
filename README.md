@@ -1,13 +1,7 @@
-# Far Cry 3 Tweaks
-Includes:
-* Skip fast travel pop-up confirmation  
-* Remove "Online servers are not available anymore" error  
-* Remove Quick Sell confirmation pop-up  
+# STALKER: Shadow of Chernobyl UI Tweaks
+Fixes for random annoyances and jank in the UI code.  
+* Inverted the map scrollwheel zoom direction (Scrollwheel Up zooms out, Down zooms in, as it should be)
+* Made map zooming instant
 
-Planned:
-* INI config  
-* Auto-loot cash piles  
-* Save hotkey  
-* Hold to swap weapon when looting body  
 
 Credits to Silent and ThirteenAG for the [pattern-matching library](https://github.com/CookiePLMonster/ModUtils/).
