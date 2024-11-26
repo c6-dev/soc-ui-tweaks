@@ -15,27 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dllmain.cpp">
+    <ClCompile Include="code/dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SafeWrite.cpp">
+    <ClCompile Include="code/SafeWrite.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dllmain.h">
+    <ClInclude Include="code/dllmain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SafeWrite.h">
+    <ClInclude Include="code/SafeWrite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="types.h">
+    <ClInclude Include="code/types.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="patches.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Logging.h">
+    <ClInclude Include="code/patches.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

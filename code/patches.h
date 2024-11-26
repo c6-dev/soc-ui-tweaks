@@ -1,5 +1,5 @@
 #pragma once
-#include "ModUtils/Patterns.h"
+#include "../ModUtils/Patterns.h"
 #include "calls.h"
 
 HMODULE __stdcall writePatches(HMODULE module) {

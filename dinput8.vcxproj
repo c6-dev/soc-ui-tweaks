@@ -174,16 +174,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="code\dllmain.cpp" />
     <ClCompile Include="ModUtils\Patterns.cpp" />
-    <ClCompile Include="SafeWrite.cpp" />
+    <ClCompile Include="code\SafeWrite.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="calls.h" />
+    <ClInclude Include="code\calls.h" />
     <ClInclude Include="ModUtils\Patterns.h" />
-    <ClInclude Include="patches.h" />
-    <ClInclude Include="SafeWrite.h" />
-    <ClInclude Include="types.h" />
+    <ClInclude Include="code\patches.h" />
+    <ClInclude Include="code\SafeWrite.h" />
+    <ClInclude Include="code\types.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="dinput8.def" />
